@@ -1,0 +1,18 @@
+Documentation
+
+Objective : Create project to monitor and understand inflation.  This includes
+visualization, exploritory analysis, and possibly prediction. Create pipelines to visualize and predict.
+
+Pieces of the pipelines:
+
+1) Get_data script or function - This function grabs data from publically available
+sources and saves it as an output file for later use downstream in pipeline.
+
+2) visualize script or function - This be can multiple scripts or functions to visualize
+certain inflation data in desired ways
+
+3) predication scripts or function - no one can do this well, except maybe the next month
+or so.  perhaps scripts to do this either for the short term (next month or so) or
+an attempt to predict trend inflation more generally.
+
+    
